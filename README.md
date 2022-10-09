@@ -1,6 +1,6 @@
 # Basics html, css, js
 Some basics html, css and javascript stuff - for learning purpose.
-This repo contains html, css, javascript (and others related) snippets, exercises and projects.
+This repo contains html, css, javascript (and others related) snippets, samples, exercises and projects.
 
 ```
 sample bash tree
