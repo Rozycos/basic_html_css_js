@@ -1,4 +1,4 @@
-# basic_html_css_js
+# Basics html, css, js
 Some basics html, css and javascript stuff - for learning purpose.
 This repo contains html, css, javascript (and others related) snippets, exercises and projects.
 
